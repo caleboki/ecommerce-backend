@@ -1,0 +1,19 @@
+# Dependency directory
+backend/node_modules/
+
+# dotenv environment variables file
+backend/.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
