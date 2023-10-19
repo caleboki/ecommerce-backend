@@ -18,8 +18,6 @@ git clone https://github.com/caleboki/ecommerce-backend
 cd e-commerce-backend
 ```
 
-Replace `[URL_OF_YOUR_GIT_REPO]` with the actual URL of your Git repository.
-
 ### 2. Configuration
 
 Navigate to the `backend` directory and create a `.env` file to store environment variables:
